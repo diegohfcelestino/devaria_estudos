@@ -31,7 +31,7 @@ export default function Home() {
   };
   return (
     <>
-      <h1>Olá mundo</h1>
+      <h1>Olá mundo! {process.env.NEXT_PUBLIC_TESTE}</h1>
       <Pessoa nome="Diego" idade={idadeDiego} />
       <Pessoa nome="Douglas" idade={30} />
       {pessoas.map(({ nomePessoa, idadePessoa }, index) => <Pessoa key={index} nome={nomePessoa} idade={idadePessoa} />)}
