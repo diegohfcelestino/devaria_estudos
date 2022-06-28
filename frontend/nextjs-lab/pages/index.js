@@ -2,7 +2,7 @@ import { useState } from "react";
 import Pessoa from "../components/pessoa.js";
 
 export default function Home() {
-  const [idadeDiego, setIdadeDiego] = useState(30);
+  const [idadeDiego, setIdadeDiego] = useState(15);
 
   const incrementaIdadeDiego = () => {
     setIdadeDiego(++idadeDiego);
