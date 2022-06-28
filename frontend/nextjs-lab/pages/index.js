@@ -1,7 +1,8 @@
 import { useState } from "react";
 import Pessoa from "../components/pessoa.js";
+import comAutorizacao from '../hoc/comAutorizacao';
 
-export default function Home() {
+function Home() {
   const [idadeDiego, setIdadeDiego] = useState(15);
   const pessoas = [
     {
@@ -42,3 +43,5 @@ export default function Home() {
     </>
   );
 }
+
+export default comAutorizacao(Home);
