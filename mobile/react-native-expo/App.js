@@ -1,10 +1,12 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { Alert, StyleSheet, Text, View } from 'react-native';
+import Botao from './src/components/Botao/Botao';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text style={styles.text}>Olá mundo!</Text>
+      <Botao onPress={() => { Alert.alert("Clicadoooo"); }} texto={"Cliqueeee"} />
       <StatusBar style="auto" />
     </View>
   );
@@ -17,4 +19,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  text: {
+    color: 'red',
+  }
 });
