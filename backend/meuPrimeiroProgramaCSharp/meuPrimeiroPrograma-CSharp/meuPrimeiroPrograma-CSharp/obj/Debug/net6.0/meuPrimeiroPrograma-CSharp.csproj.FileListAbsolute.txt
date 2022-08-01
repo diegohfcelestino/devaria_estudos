@@ -1,0 +1,15 @@
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\bin\Debug\net6.0\meuPrimeiroPrograma-CSharp.exe
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\bin\Debug\net6.0\meuPrimeiroPrograma-CSharp.deps.json
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\bin\Debug\net6.0\meuPrimeiroPrograma-CSharp.runtimeconfig.json
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\bin\Debug\net6.0\meuPrimeiroPrograma-CSharp.dll
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\bin\Debug\net6.0\meuPrimeiroPrograma-CSharp.pdb
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\obj\Debug\net6.0\meuPrimeiroPrograma-CSharp.csproj.AssemblyReference.cache
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\obj\Debug\net6.0\meuPrimeiroPrograma-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\obj\Debug\net6.0\meuPrimeiroPrograma-CSharp.AssemblyInfoInputs.cache
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\obj\Debug\net6.0\meuPrimeiroPrograma-CSharp.AssemblyInfo.cs
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\obj\Debug\net6.0\meuPrimeiroPrograma-CSharp.csproj.CoreCompileInputs.cache
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\obj\Debug\net6.0\meuPrimeiroPrograma-CSharp.dll
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\obj\Debug\net6.0\refint\meuPrimeiroPrograma-CSharp.dll
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\obj\Debug\net6.0\meuPrimeiroPrograma-CSharp.pdb
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\obj\Debug\net6.0\meuPrimeiroPrograma-CSharp.genruntimeconfig.cache
+C:\Projetos\devaria_estudos\backend\meuPrimeiroProgramaCSharp\meuPrimeiroPrograma-CSharp\meuPrimeiroPrograma-CSharp\obj\Debug\net6.0\ref\meuPrimeiroPrograma-CSharp.dll
